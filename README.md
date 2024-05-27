@@ -1,4 +1,4 @@
-<h3 align="center">...</h3>
+<h3 align="center">work in progress</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripty&label=Profile%20views&color=0e75b6&style=flat" alt="ripty" /> </p>
 
