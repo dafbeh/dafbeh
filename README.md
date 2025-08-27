@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on tools for developers<br>🌱 I’m learning Next.js and React
+I’m a web developer who enjoys turning ideas into interactive and user-friendly web applications. I love building projects that people can find use in.
+💻 Focused on web development with modern tools and frameworks
+🌱 Always learning new technologies to improve my craft
+⚡ Excited about solving problems and bringing creative ideas to life on the web
 
 
 ## 🌐 Socials:
