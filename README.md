@@ -1,9 +1,8 @@
 # 💫 About Me:
-I’m a web developer who enjoys turning ideas into interactive and user-friendly web applications. I love building projects that people can find use in.
-💻 Focused on web development with modern tools and frameworks
-🌱 Always learning new technologies to improve my craft
-⚡ Excited about solving problems and bringing creative ideas to life on the web
-
+I’m a web developer who enjoys turning ideas into interactive and user-friendly web applications. I love building projects that people can find use in.<br>
+💻 Focused on web development with modern tools and frameworks<br>
+🌱 Always learning new technologies to improve my craft<br>
+⚡ Excited about solving problems and bringing creative ideas to life on the web<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daf-behnan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dafbeh@gmail.com) 
